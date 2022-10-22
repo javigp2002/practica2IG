@@ -1,4 +1,4 @@
-.PHONY: x clean tar
+a.PHONY: x clean tar
 
 EJECUTABLE= practica_objetos_B2
 
